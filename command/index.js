@@ -1,1 +1,1 @@
-
+exports.cmmnd = require('./menunya')
